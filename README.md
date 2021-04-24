@@ -1,8 +1,17 @@
+# My Portfolio
 Hey ! This is my personal portfolio in making.
+
 My name is Deepak Malik.
 I'm doing BCA from New Horizon College Marathalli,Bangalore.
-Computer language skill i have -
-                                >c,c++
-In Learning -
-             >html,CSS,Javascipt.
+For Now,I know :
+1. c
+1. c++
+
+
+I'm Learning :
+1. JavaScipt
+1. HTML
+1. CSS
+
+             
              
