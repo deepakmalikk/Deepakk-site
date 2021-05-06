@@ -7,6 +7,8 @@ I'm doing BCA from New Horizon College Marathalli,Bangalore.
 For Now,I know :
 1. c
 1. c++
+1. git
+1. replit
 
 
 I'm Learning :
